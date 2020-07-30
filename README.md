@@ -16,6 +16,6 @@ Layout do link leia mais da seção NOVA LEGISLAÇÃO da página
 
 
 
-Layout do link Fotos dA página
+Layout do link Fotos da página
 ![fotos](https://github.com/DeangellesES/Site_de_noticias_ficticio-HTML5-CSS3/blob/master/fotos.png)
 
