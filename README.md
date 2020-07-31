@@ -1,7 +1,7 @@
 # Site_de_noticias_ficticio-HTML5-CSS3
 Site de notícias fictício criado em um curso de HTML5 e CSS3
 
-Layout página inícial
+Layout página inicial
 ![Site de notícias](https://github.com/DeangellesES/Site_de_noticias_ficticio-HTML5-CSS3/blob/master/site-noticias-ficticio.png)
 
 
